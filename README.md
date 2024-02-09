@@ -1,2 +1,8 @@
 # projeto-quiz
- criação de um web quiz com html, css e js
+
+## Tecnologias Utilizadas 
+
+- HTML
+- CSS
+- JavaScript
+- Github
