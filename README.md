@@ -1,18 +1,18 @@
-# Web Quiz do NLW Expert
+# NLW Expert Web Quiz
 
-### Sobre o Projeto
-Este site é uma aplicação web desenvolvida para proporcionar uma experiência interativa e dinâmica por meio de um quiz. O projeto foi elaborado com foco na simplicidade e eficiência, utilizando as tecnologias **HTML**, **CSS** e **JavaScript**.  
+### About the project
+This website is a web application developed to provide an interactive and dynamic experience through a quiz. The project was designed with a focus on simplicity and efficiency, using **HTML**, **CSS** and **JavaScript** technologies.  
 
-Com um design intuitivo e responsivo, o site oferece aos usuários uma navegação fluida e acessível em qualquer dispositivo. Ele combina uma estrutura robusta em HTML, estilos visuais atraentes criados com CSS e funcionalidades interativas possibilitadas pelo JavaScript.  
+With an intuitive and responsive design, the website offers users fluid and accessible navigation on any device. It combines a robust HTML structure, attractive visual styles created with CSS, and interactive functionality made possible by JavaScript.  
 
-Este projeto foi realizado durante o **NLW Expert**, um evento de imersão promovido pela **Rocketseat**, uma empresa renomada no ensino de tecnologia. A experiência do evento proporcionou uma oportunidade valiosa para aprender e aplicar conceitos modernos de desenvolvimento web, garantindo um resultado final alinhado às boas práticas da indústria.  
+This project was carried out during **NLW Expert**, an immersion event promoted by **Rocketseat**, a renowned company in technology education. The event experience provided a valuable opportunity to learn and apply modern web development concepts, ensuring a final result in line with industry best practices.  
 
-Explore o site e descubra como a tecnologia pode tornar o aprendizado e o entretenimento mais acessíveis e envolventes!
+Explore the site and discover how technology can make learning and entertainment more accessible and engaging!
 
-### Layout do Site
+### Web site Layout
 <img src="https://i.ibb.co/cxwN3Cx/foto-01.png" alt="foto-01" border="0">
 
-### Tecnologias Utilizadas 
+### Technologies Used 
 
 - HTML
 - CSS
