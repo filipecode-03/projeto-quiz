@@ -10,7 +10,8 @@ Este projeto foi realizado durante o **NLW Expert**, um evento de imersão promo
 Explore o site e descubra como a tecnologia pode tornar o aprendizado e o entretenimento mais acessíveis e envolventes!
 
 ### Layout do Site
-<img src="https://drive.google.com/file/d/11-w-yzKAGyt3GQu3ijuETaBBQPDZdUfB/view?usp=sharing">
+<img src="https://i.ibb.co/cxwN3Cx/foto-01.png" alt="foto-01" border="0">
+
 ### Tecnologias Utilizadas 
 
 - HTML
