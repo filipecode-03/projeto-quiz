@@ -10,7 +10,7 @@ This project was carried out during **NLW Expert**, an immersion event promoted 
 Explore the site and discover how technology can make learning and entertainment more accessible and engaging!
 
 ### Web site Layout
-<img src="https://i.ibb.co/cxwN3Cx/foto-01.png" alt="foto-01" border="0">
+<img src="src/readmeFiles/2025-03-21 10-05-21.mp4" alt="layout">
 
 ### Technologies Used 
 
