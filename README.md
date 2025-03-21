@@ -11,7 +11,10 @@ Explore the site and discover how technology can make learning and entertainment
 
 ### Web site Layout
 
-[![Vídeo](src/readmeFiles/image.png)](src/readmeFiles/2025-03-21%2010-05-21.mp4)
+<video width="500" poster="src/readmeFiles/image.png" controls>
+        <source src="src/readmeFiles/2025-03-21 10-05-21.mp4" type="video/mp4">
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
+</video>
 
 ### Technologies Used 
 
