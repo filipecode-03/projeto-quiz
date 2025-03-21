@@ -10,7 +10,10 @@ This project was carried out during **NLW Expert**, an immersion event promoted 
 Explore the site and discover how technology can make learning and entertainment more accessible and engaging!
 
 ### Web site Layout
-<img src="src/readmeFiles/2025-03-21 10-05-21.mp4" alt="layout">
+<video width="320" height="240" controls>
+  <source src="src/readmeFiles/2025-03-21 10-05-21.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
 ### Technologies Used 
 
