@@ -1,22 +1,19 @@
 # NLW Expert Web Quiz
 
-### About the project
-This website is a web application developed to provide an interactive and dynamic experience through a quiz. The project was designed with a focus on simplicity and efficiency, using **HTML**, **CSS** and **JavaScript** technologies.  
+### Sobre o projeto
+Este site é uma aplicação web desenvolvida para proporcionar uma experiência interativa e dinâmica por meio de um quiz. O projeto foi elaborado com foco em simplicidade e eficiência, utilizando as tecnologias **HTML**, **CSS** e **JavaScript**. 
 
-With an intuitive and responsive design, the website offers users fluid and accessible navigation on any device. It combines a robust HTML structure, attractive visual styles created with CSS, and interactive functionality made possible by JavaScript.  
+Com um design intuitivo e responsivo, o site oferece aos usuários uma navegação fluida e acessível em qualquer dispositivo. Ele combina uma estrutura HTML robusta, estilos visuais atraentes criados com CSS e funcionalidade interativa possibilitada pelo JavaScript. 
 
-This project was carried out during **NLW Expert**, an immersion event promoted by **Rocketseat**, a renowned company in technology education. The event experience provided a valuable opportunity to learn and apply modern web development concepts, ensuring a final result in line with industry best practices.  
+Este projeto foi realizado durante o **NLW Expert**, evento de imersão promovido pela **Rocketseat**, empresa renomada em educação tecnológica. A experiência do evento proporcionou uma oportunidade valiosa de aprender e aplicar conceitos modernos de desenvolvimento web, garantindo um resultado final alinhado às melhores práticas do setor. 
 
-Explore the site and discover how technology can make learning and entertainment more accessible and engaging!
+Explore o site e descubra como a tecnologia pode tornar o aprendizado e o entretenimento mais acessíveis e envolventes!
 
 ### Web site Layout
 
-<video width="500" poster="src/readmeFiles/image.png" controls>
-        <source src="src/readmeFiles/2025-03-21 10-05-21.mp4" type="video/mp4">
-        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
-</video>
+<img src="src/images/Captura de tela 2025-03-21 101141.png">
 
-### Technologies Used 
+### Tecnologias Utilizadas
 
 - HTML
 - CSS
